@@ -25,5 +25,9 @@
 
 
     - Building Custom Animation
-    - Using Built-in Animation Widgets
+    - Using Built-in Animation Widgets 
+
+### Implicit Animation : Animation and motion widges
+https://docs.flutter.dev/ui/widgets/animation
+
 
